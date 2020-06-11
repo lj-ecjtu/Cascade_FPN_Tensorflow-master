@@ -1,6 +1,9 @@
 # Cascade R-CNN: Delving into High Quality Object Detection 
 
 ## Abstract     
+基于TensorFlow完成的Cascade R-CNN项目，将其进行改进应用到钢轨伤损检测上，取得了较高的精度
+
+
 This repo is based on [FPN](https://github.com/DetectionTeamUCAS/FPN_Tensorflow), and completed by [YangXue](https://github.com/yangxue0827).     
 
 ## Train on COCO train2017 and test on COCO val2017 (coco minival).   
